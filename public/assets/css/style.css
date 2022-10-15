@@ -460,13 +460,13 @@ section {
 
 .section-bg:before {
   content: "";
-  background: #1b1b1b;
+  background: #023020;
   position: absolute;
   bottom: 60px;
   top: 60px;
   left: 0;
   right: 0;
-  transform: skewY(-3deg);
+  transform: skewY(-1deg);
 }
 
 /*--------------------------------------------------------------
@@ -763,7 +763,7 @@ section {
   margin-bottom: 20px;
   padding: 30px;
   border-radius: 6px;
-  background: #252525;
+  background: #1e7457;
   transition: 0.3s;
 }
 
